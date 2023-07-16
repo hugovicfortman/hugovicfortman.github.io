@@ -64,48 +64,54 @@
                 "HEADER": "Experience",
                 "CONTENT":{
                     "0" : {
+                        "COMPANY": "GFinity Plc, Lagos, NG",
+                        "ACTIVEYEAR": "Jan 2022 – Present",
+                        "ROLE": "TECHNICAL LEAD, STOCK INFORMER",
+                        "DESCRIPTION": "Lead Software Development, Scaling, Upgrade and Market Integration of the Stock Informer product."
+                    },
+                    "1" : {
                         "COMPANY": "Sapios, Lagos, NG",
                         "ACTIVEYEAR": "Jan 2021 – Present",
                         "ROLE": "SOFTWARE ENGINEERING CONSULTANT",
                         "DESCRIPTION": "Develop, deploy and manage SAAS solutions servicing medium to large enterprises. Design and advise on system architecture for new and evolving solutions. Integrate databases, APIs and data-driven systems internal and external to enterprises."
                     },
-                    "1" : {
+                    "2" : {
                         "COMPANY": "DAGBS Nigeria Limited, Lagos, NG",
                         "ACTIVEYEAR": "Jul 2019 – Nov 2020",
                         "ROLE": "FULL TIME - RPA DEVELOPER",
                         "DESCRIPTION": "With advanced and up to date knowledge of industry standards, I am able to develop automated processes that are robust and efficient, integrating with a wide range of tools and services to optimize business procedures and eradicate errors and repetitive work."
                     },
-                    "2" : {
+                    "3" : {
                         "COMPANY": "DAGBS Nigeria Limited, Lagos, NG",
                         "ACTIVEYEAR": "Jan 2018 – Nov 2020",
                         "ROLE": "FULL TIME - SOFTWARE ENGINEER",
                         "DESCRIPTION": "As an innovative full stack developer with experience in troubleshooting, upgrading and enhancing existing systems, I design and develop new software applications, seeing them through the software lifecycle from vision to successful deployment with the best applicable technologies, be they functional, procedural or object oriented languages."
                     },
-                    "3" : {
+                    "4" : {
                         "COMPANY": "Dataflex Nigeria Limited, Lagos, NG",
                         "ACTIVEYEAR": "Aug 2017 – Dec 2017",
                         "ROLE": "CONTRACT - APPLICATION DEVELOPER",
                         "DESCRIPTION": "Within a short period of my resumption, I was able to successfully upgrade and deploy 2 applications with critical enhancements, earning 2 internal recognition awards from my partner firm. I went on to lead the Azure cloud migration and integration projects, deploying the company’s first cloud ready applications in a collaborative effort."
                     },
-                    "4" : {
+                    "5" : {
                         "COMPANY": "National Youth Service Corps, Oyo, NG",
                         "ACTIVEYEAR": "Apr 2016 – Apr 2017",
                         "ROLE": "Full Time - High School Teacher, Physics",
                         "DESCRIPTION": "Delivered well structured lessons to students, making course notes, performing class activities, giving and grading homework and tests. <br/> Organised community wide Quiz and Spelling Bee competitions in collaboration with Local Government educational board."
                     },
-                    "5" : {
+                    "6" : {
                         "COMPANY": "Freelance, Oyo, NG",
                         "ACTIVEYEAR": "May 2016 – Mar 2017",
                         "ROLE": "PART TIME - WEB DEVELOPER, GRAPHICS DESIGNER",
                         "DESCRIPTION": "With the knowledge of HTML5, CSS3, SASS and Git, I developed Php and Wordpress based websites for small businesses. I also used Adobe Photoshop and Illustrator in the design of logos, icons and Certificate cards that were issued to schools at the local government sponsored quiz competitions."
                     },
-                    "6" : {
+                    "7" : {
                         "COMPANY": "Chevron Nigeria Limited, Lagos, NG",
                         "ACTIVEYEAR": "Jun 2014 – Nov 2014",
                         "ROLE": "INTERNSHIP - JUNIOR SOFTWARE ENGINEER",
                         "DESCRIPTION": "I worked with Operations Support engineers to triage, troubleshoot and remediate bugs and security vulnerabilities in business applications using knowledge of C# and VB. As an assigned project, I built a JavaScript based interactive quiz which was used in the Human Resources’ team building and knowledge sharing event."
                     },
-                    "7" : {
+                    "8" : {
                         "COMPANY": "Ikeja Electricity Distribution Company, Lagos, NG",
                         "ACTIVEYEAR": "Sep 2013 – Dec 2013",
                         "ROLE": "INTERNSHIP - ELECTRICAL ENGINEER",
@@ -165,21 +171,21 @@
                     "0" : {
                         "TITLE" : "Aurelia Demo",
                         "DESCRIPTION" : "A personnel enrollment app built with AureliaJS and Typescript on top of a .NET5 WebAPI and Entity Framework.",
-                        "IMAGE" : "/project/live/app-processor/app-processor.webp",
+                        "IMAGE" : "https://cdn.victorfortman.com/public/images/app-processor.webp",
                         "SOURCE" : "https://github.com/hugovicfortman/applicationprocess-december2020",
                         "ISLIVE" : "0"
                     },
                     "1" : {
                         "TITLE" : "SlushieCorp",
                         "DESCRIPTION" : "An advanced real-time vending application built on Angular 9, dotnetcore 3.1 API and SignalR.",
-                        "IMAGE" : "/project/live/slushiecorp/slushiecorp.png",
+                        "IMAGE" : "https://cdn.victorfortman.com/public/images/slushiecorp.png",
                         "SOURCE" : "https://github.com/hugovicfortman/slushiecorp",
                         "ISLIVE" : "0"
                     },
                     "2" : {
                         "TITLE" : "Imperial DB",
                         "DESCRIPTION" : "Demonstrating dynamically loaded scroll lists in React, using the Star Wars API.",
-                        "IMAGE" : "/project/live/imperial-database/imperial-database.webp",
+                        "IMAGE" : "https://cdn.victorfortman.com/public/images/imperial-database.webp",
                         "SOURCE" : "https://github.com/hugovicfortman/imperial-database",
                         "LIVE" : "https://projects.victorfortman.com/imperial-database",
                         "ISLIVE" : "1"
@@ -187,7 +193,7 @@
                     "3" : {
                         "TITLE" : "Tic Tac Toe",
                         "DESCRIPTION" : "The full featured game created by following the Intro to React tutorial.",
-                        "IMAGE" : "/project/live/tic-tac-toe/tic-tac-toe.webp",
+                        "IMAGE" : "https://cdn.victorfortman.com/public/images/tic-tac-toe.webp",
                         "SOURCE" : "https://github.com/hugovicfortman/tic-tac-toe",
                         "LIVE" : "https://projects.victorfortman.com/tic-tac-toe",
                         "ISLIVE" : "1"
