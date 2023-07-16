@@ -1,0 +1,188 @@
+{
+    "MENU": {
+        "HOME": "ụlọ",
+        "PROFILE": "Profil",
+        "RESUME": "CV",
+        "SKILLS": "Compétences",
+        "PREFERENCE": "Préférence",
+        "LANGUAGE": "Asusu",
+        "LIGHTINGMODE": "Mode d'éclairage",
+        "DAY": "Otutu",
+        "DAYMODE": "Mode Jour",
+        "NIGHT": "Abali",
+        "NIGHTMODE": "Mode Nuit",
+        "BACKDROPMODE": "Explorer",
+        "BACKGROUND": "Site Internet",
+        "BACKGROUNDMODE": "Continuer à consulter le site Web",
+        "INTERACTIVE": "Toile de fond en direct",
+        "INTERACTIVEMODE": "Regardez et interagissez avec un arrière-plan en direct et des visuels naturels"
+    },
+    "LANGUAGES":{
+        "ENGLISH": "Inglish",
+        "FRENCH": "Frenchi",
+        "GERMAN": "Jaman",
+        "IGBO": "Igbo"
+    },
+    "GREETINGS": {
+        "HI": "Ndewo"
+    },
+    "INTRO": {
+        "WHOAMI" : "Abum Softwai Injinia"
+    },
+    "PAGES" : {
+        "PROFILE" : {
+            "HEADER" : "Profail",
+            "QUOTE" : {
+                "TEXT" : "Le silence est un véritable ami qui ne trahit jamais.",
+                "AUTHOR" : "Confucius"
+            },
+            "ABOUT" : {
+                "HEADER" : "Au sujet de",
+                "CONTENT" : "J'ai plus de 5 ans d'expérience dans le développement d'applications Web, la création d'API haute disponibilité, d'automatisations de processus robotiques et de solutions d'analyse destinées à la gestion de la chaîne d'approvisionnement, aux finances, aux ressources humaines et aux opérations sur le terrain. J'aime apprendre, surmonter les défis et créer de nouvelles choses."
+            },
+            "SPECS" : {
+                "HEADER" : "Spécifications",
+                "CONTENT" : {
+                    "NAMEKEY" : "Nom",
+                    "NAMEVALUE" : "Victor U.O. Fortman",
+                    "AGEKEY" : "Âge",
+                    "AGEVALUE" : "26",
+                    "LOCATIONKEY" : "Emplacement",
+                    "LOCATIONVALUE" : "éloigné"
+                }
+            },
+            "ACTIONS" : {
+                "VIEWRESUME" : "Voir Mon CV",
+                "CONTACTME" : "Réservez une consultation"
+            }
+        },
+        "RESUME" : {
+            "HEADER" : "CV",
+            "EXPERIENCE" : {
+                "HEADER": "Expérience",
+                "CONTENT":{
+                    "0" : {
+                        "COMPANY": "Sapios, Lagos, NG",
+                        "ACTIVEYEAR": "Jan 2021 – Présent",
+                        "ROLE": "CONSULTANT EN GÉNIE LOGICIEL",
+                        "DESCRIPTION": "Développer, déployer et gérer des solutions SAAS au service des moyennes et grandes entreprises. Concevoir et conseiller sur l'architecture système pour des solutions nouvelles et évolutives. Intégrez des bases de données, des API et des systèmes basés sur les données internes et externes aux entreprises."
+                    },
+                    "1" : {
+                        "COMPANY": "DAGBS Nigeria Limited, Lagos, NG",
+                        "ACTIVEYEAR": "Jul 2019 – Nov 2020",
+                        "ROLE": "PLEIN TEMPS - DÉVELOPPEUR RPA",
+                        "DESCRIPTION": "Grâce à une connaissance avancée et à jour des normes de l'industrie, je suis en mesure de développer des processus automatisés robustes et efficaces, en intégrant une large gamme d'outils et de services pour optimiser les procédures commerciales et éliminer les erreurs et le travail répétitif."
+                    },
+                    "2" : {
+                        "COMPANY": "DAGBS Nigeria Limited, Lagos, NG",
+                        "ACTIVEYEAR": "Jan 2018 – Nov 2020",
+                        "ROLE": "PLEIN TEMPS - INGÉNIEUR LOGICIEL",
+                        "DESCRIPTION": "En tant que développeur innovant de pile complète ayant une expérience dans le dépannage, la mise à niveau et l'amélioration des systèmes existants, je conçois et développe de nouvelles applications logicielles, les accompagnant tout au long du cycle de vie du logiciel, de la vision au déploiement réussi avec les meilleures technologies applicables, qu'elles soient fonctionnelles, procédurales ou orientées objet."
+                    },
+                    "3" : {
+                        "COMPANY": "Dataflex Nigeria Limited, Lagos, NG",
+                        "ACTIVEYEAR": "Aoû 2017 – Déc 2017",
+                        "ROLE": "CONTRAT - DÉVELOPPEUR D'APPLICATIONS",
+                        "DESCRIPTION": "Dans une courte période de ma reprise, j'ai pu mettre à niveau et déployer avec succès 2 applications avec des améliorations critiques, remportant 2 prix de reconnaissance interne de mon entreprise partenaire. J'ai ensuite dirigé les projets d'intégration de la migration vers le cloud Azure, déployant les premières applications prêtes pour le cloud de l'entreprise dans un effort collaboratif."
+                    },
+                    "4" : {
+                        "COMPANY": "National Youth Service Corps, Oyo, NG",
+                        "ACTIVEYEAR": "Avr 2016 – Avr 2017",
+                        "ROLE": "À temps plein - Enseignant du secondaire, physique",
+                        "DESCRIPTION": "Donné des leçons bien structurées aux étudiants, prenant des notes de cours, effectuant des activités en classe, donnant et notant les devoirs et les tests. <br/> Organisation de concours de quiz et d'orthographe à l'échelle de la communauté en collaboration avec le conseil scolaire du gouvernement local."
+                    },
+                    "5" : {
+                        "COMPANY": "Free-lance, Oyo, NG",
+                        "ACTIVEYEAR": "Mai 2016 – Mar 2017",
+                        "ROLE": "TEMPS PARTIEL - DÉVELOPPEUR WEB, CONCEPTEUR GRAPHIQUE",
+                        "DESCRIPTION": "Avec la connaissance de HTML5, CSS3, SASS et Git, j'ai développé des sites Web basés sur Php et Wordpress pour les petites entreprises et les idées. J'ai également utilisé Adobe Photoshop et Illustrator dans la conception de logos, d'icônes et de cartes de certificat qui ont été délivrés aux écoles lors des concours de quiz parrainés par le gouvernement local."
+                    },
+                    "6" : {
+                        "COMPANY": "Chevron Nigeria Limited, Lagos, NG",
+                        "ACTIVEYEAR": "Jun 2014 – Nov 2014",
+                        "ROLE": "STAGE - INGÉNIEUR LOGICIEL JUNIOR",
+                        "DESCRIPTION": "J'ai travaillé avec des ingénieurs du support opérationnel pour trier, dépanner et corriger les bogues et les vulnérabilités de sécurité dans les applications d'entreprise en utilisant la connaissance de C # et de VB. En tant que projet assigné, j'ai créé un quiz interactif basé sur JavaScript qui a été utilisé dans le cadre de l'événement de création d'équipe et de partage des connaissances des ressources humaines."
+                    },
+                    "7" : {
+                        "COMPANY": "Ikeja Electricity Distribution Company, Lagos, NG",
+                        "ACTIVEYEAR": "Sep 2013 – Dec 2013",
+                        "ROLE": "STAGE - INGÉNIEUR ÉLECTRIQUE",
+                        "DESCRIPTION": "Ingénieurs assistés de protection, de contrôle et de comptage dans les opérations et tests sur le terrain <br/> Participé à des visites sur le terrain avec l'unité de planification et de construction <br/> Participé à la maintenance du transformateur de puissance avec l'unité d'exploitation et de maintenance <br/> Connaissance appliquée des feuilles de calcul et des données tri en collation des factures mensuelles <br/> Participation à la sensibilisation du public et vérification des factures sous station service"
+                    }
+                }
+            },
+            "EDUCATION" : {
+                "HEADER": "Éducation",
+                "CONTENT":{
+                    "0" : {
+                        "SCHOOLNAME": "Federal University of Technology Owerri",
+                        "ACTIVEYEAR": "Sep 2010 – Dec 2015",
+                        "DEGREE": "Baccalauréat - Génie électronique et informatique",
+                        "DESCRIPTION": "La thèse de dernière année sur \"Application des technologies informatiques en agriculture \" a remporté une distinction. <br/> Le projet \"Développement d'une plate-forme de réseautage social et de gestion de l'information pour les établissements agricoles au Nigeria\" a remporté une distinction. <br/> A créé et déployé avec succès un logiciel de vote électronique sécurisé et léger pour les élections internes au Département de génie électrique et électronique, gagnant un rôle de conseil d'administration au sein du comité électoral des étudiants de la Society for Electrical and Electronic Engineering, 2014/2015."
+                    },
+                    "1" : {
+                        "SCHOOLNAME": "Federal Government Academy Suleja",
+                        "ACTIVEYEAR": "Feb 2005 – Jul 2010",
+                        "DEGREE": "Sciences naturelles",
+                        "DESCRIPTION": "6 Distinctions <br/>"
+                    }
+                }
+            },
+            "DOWNLOADSUMMARY": "Télécharger le résumé"
+        },
+        "SKILLS" : {
+            "HEADER" : "Okara",
+            "TECHNICAL" : "Okara Tekinoloji",
+            "LANGUAGES" : "Asusu"
+        },
+        "CONTACT" : {
+            "HEADER" : "Projekti Ohuru?",
+            "GETCONNECTED" : "Konekti",
+            "REACHOUT" : "Kwadowe nkata",
+            "ERROR" : "Enwe mmehie n'ugbua. Mee ya ozo.",
+            "CONTENT": {
+                "FIRSTNAME" : "Aha",
+                "FIRSTNAMEREQUIRED" : "Aha di mkpa",
+                "LASTNAME" : "Aha ezinulo",
+                "COMPANYNAME" : "Aha kompani",
+                "EMAIL" : "Email",
+                "EMAILREQUIRED" : "Email di mkpa",
+                "VALIDEMAILREQUIRED" : "Dee ezigbo email",
+                "MESSAGE" : "Ozi",
+                "MESSAGESENT" : "Ozi gi eziela, i ge enewete aziza na email gi."
+            },
+            "DONE" : "Terminé",
+            "SEND" : "Zie",
+            "EMAILCAVEAT" : "Vos informations de messagerie ne sont jamais partagées et ne sont utilisées qu'à des fins de correspondance.",
+            "CANADAPITCH" : "Ibu onye ne nye olu na Canada? <br/> K'anyi luo olu dum. Klikie <a class='lnk-yellow' href='/canada' target='_blank'> ebea </a> wee mata na nke oma."
+        },
+        "FEATUREDPROJECTS" : {
+            "HEADER" : "Lee otutu ihe m mere",
+            "CONTENT" : {
+                "PROJECTS" : {
+                    "0" : {
+                        "TITLE" : "Aurelia Demo",
+                        "DESCRIPTION" : "Softwia eji e regista ndi mmadu. Eji Aurelia JS na Typescript wee me ya n'elu .NET5 Web API na Entity Framework."
+                    },
+                    "1" : {
+                        "TITLE" : "SlushieCorp",
+                        "DESCRIPTION" : "Softwia  de vente avancée en temps réel basée sur Angular 9, l'API dotnetcore 3.1 et SignalR."
+                    },
+                    "2" : {
+                        "TITLE" : "Imperial DB",
+                        "DESCRIPTION" : "Ngosi dainamik listi na React, na Star Wars API."
+                    },
+                    "3" : {
+                        "TITLE" : "Tic Tac Toe",
+                        "DESCRIPTION" : "Egwumegwu eji Intro to React wee me."
+                    }
+                },
+                "ACTIONS" : {
+                    "VIEWLIVE" : "Lee ya na ndu",
+                    "VIEWSOURCE" : "Lee ihe eji ede ya"
+                },
+                "THISWEBSITE" : "Eji Angular 11 wee me Websaiti nkea"
+            }
+        }
+    }
+}

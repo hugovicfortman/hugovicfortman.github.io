@@ -1,0 +1,188 @@
+{
+    "MENU": {
+        "HOME": "Zuhause",
+        "PROFILE": "Profil",
+        "RESUME": "Resümee",
+        "SKILLS": "Kompetenzen",
+        "PREFERENCE": "Präferenz",
+        "LANGUAGE": "Sprache",
+        "LIGHTINGMODE": "Beleuchtungsmodus",
+        "DAY": "Tag",
+        "DAYMODE": "Tagesmodus",
+        "NIGHT": "Nacht",
+        "NIGHTMODE": "Nacht-Modus",
+        "BACKDROPMODE": "Erkunden",
+        "BACKGROUND": "Webseite",
+        "BACKGROUNDMODE": "Fahren Sie fort, die Website anzuzeigen",
+        "INTERACTIVE": "Live-Hintergrund",
+        "INTERACTIVEMODE": "Beobachten und interagieren Sie mit Live-Hintergrund und natürlichen Bildern"
+    },
+    "LANGUAGES":{
+        "ENGLISH": "Englisch",
+        "FRENCH": "Französisch",
+        "GERMAN": "Deutsche",
+        "IGBO": "Igbo"
+    },
+    "GREETINGS": {
+        "HI": "Hallo"
+    },
+    "INTRO": {
+        "WHOAMI" : "Ich bin Softwareentwickler"
+    },
+    "PAGES" : {
+        "PROFILE" : {
+            "HEADER" : "Profil",
+            "QUOTE" : {
+                "TEXT" : "Tun oder nicht tun. Es gibt keinen Versuch.",
+                "AUTHOR" : "Yoda"
+            },
+            "ABOUT" : {
+                "HEADER" : "Über",
+                "CONTENT" : "Ich habe über 5 Jahre Erfahrung in der Entwicklung von Webanwendungen, der Erstellung von Hochverfügbarkeits-APIs, Roboter-Prozessautomatisierungen und Analyselösungen für Supply Chain Management, Finanzen, Personalwesen und Außendienst. Ich genieße es zu lernen, Herausforderungen zu meistern und neue Dinge zu machen."
+            },
+            "SPECS" : {
+                "HEADER" : "Technische Daten",
+                "CONTENT" : {
+                    "NAMEKEY" : "Name",
+                    "NAMEVALUE" : "Victor U.O. Fortman",
+                    "AGEKEY" : "Alter",
+                    "AGEVALUE" : "26",
+                    "LOCATIONKEY" : "Auffinden",
+                    "LOCATIONVALUE" : "Fernbedienung"
+                }
+            },
+            "ACTIONS" : {
+                "VIEWRESUME" : "mein Resümee",
+                "CONTACTME" : "Vereinbaren Sie eine Beratung"
+            }
+        },
+        "RESUME" : {
+            "HEADER" : "Resümee",
+            "EXPERIENCE" : {
+                "HEADER": "Erfahrung",
+                "CONTENT":{
+                    "0" : {
+                        "COMPANY": "Sapios, Lagos, NG",
+                        "ACTIVEYEAR": "Jan 2021 – Gegenwart",
+                        "ROLE": "Berater für Softwareentwicklung",
+                        "DESCRIPTION": "Entwicklung, Bereitstellung und Verwaltung von SAAS-Lösungen für mittlere bis große Unternehmen. Entwerfen und beraten Sie zur Systemarchitektur für neue und sich weiterentwickelnde Lösungen. Integrieren Sie unternehmensinterne und -externe Datenbanken, APIs und datengesteuerte Systeme."
+                    },
+                    "1" : {
+                        "COMPANY": "DAGBS Nigeria Limited, Lagos, NG",
+                        "ACTIVEYEAR": "Jul 2019 – Nov 2020",
+                        "ROLE": "VOLLZEIT - RPA-ENTWICKLER",
+                        "DESCRIPTION": "Mit fortgeschrittenen und aktuellen Kenntnissen der Industriestandards bin ich in der Lage, automatisierte Prozesse zu entwickeln, die robust und effizient sind und in eine breite Palette von Tools und Services integriert werden können, um Geschäftsabläufe zu optimieren und Fehler und Wiederholungsarbeiten zu beseitigen."
+                    },
+                    "2" : {
+                        "COMPANY": "DAGBS Nigeria Limited, Lagos, NG",
+                        "ACTIVEYEAR": "Jan 2018 – Nov 2020",
+                        "ROLE": "VOLLZEIT - SOFTWAREENTWICKLER",
+                        "DESCRIPTION": "Als innovativer Full-Stack-Entwickler mit Erfahrung in der Fehlerbehebung, Aktualisierung und Verbesserung vorhandener Systeme entwerfe und entwickle ich neue Softwareanwendungen und begleite sie über den gesamten Software-Lebenszyklus von der Vision bis zur erfolgreichen Bereitstellung mit den besten anwendbaren Technologien, sei es funktional, prozedural oder objektorientiert Sprachen."
+                    },
+                    "3" : {
+                        "COMPANY": "Dataflex Nigeria Limited, Lagos, NG",
+                        "ACTIVEYEAR": "Aug 2017 – Dez 2017",
+                        "ROLE": "VERTRAG - ANWENDUNGSENTWICKLER",
+                        "DESCRIPTION": "Innerhalb kurzer Zeit nach meiner Wiederaufnahme konnte ich zwei Anwendungen mit kritischen Verbesserungen erfolgreich aktualisieren und bereitstellen und erhielt zwei interne Anerkennungspreise von meiner Partnerfirma. Anschließend leitete ich die Integrationsprojekte für die Azure-Cloud-Migration und stellte gemeinsam die ersten Cloud-fähigen Anwendungen des Unternehmens bereit."
+                    },
+                    "4" : {
+                        "COMPANY": "National Youth Service Corps, Oyo, NG",
+                        "ACTIVEYEAR": "Apr 2016 – Apr 2017",
+                        "ROLE": "Vollzeit - Gymnasiallehrer, Physik",
+                        "DESCRIPTION": "Erhielt gut strukturierte Lektionen für die Schüler, machte Kursnotizen, führte Unterrichtsaktivitäten durch, gab und benotete Hausaufgaben und Tests. <br/> Organisierte gemeinschaftsweite Quiz- und Rechtschreibwettbewerbe in Zusammenarbeit mit dem Bildungsausschuss der lokalen Regierung."
+                    },
+                    "5" : {
+                        "COMPANY": "Freiberuflich, Oyo, NG",
+                        "ACTIVEYEAR": "Mai 2016 – Mär 2017",
+                        "ROLE": "TEILZEIT - WEBENTWICKLER, GRAFIKDESIGNER",
+                        "DESCRIPTION": "Mit den Kenntnissen von HTML5, CSS3, SASS und Git entwickelte ich auf PHP und Wordpress basierende Websites für kleine Unternehmen und Ideen. Ich habe auch Adobe Photoshop und Illustrator bei der Gestaltung von Logos, Symbolen und Zertifikatskarten verwendet, die an Schulen der von der lokalen Regierung gesponserten Quizwettbewerbe ausgegeben wurden."
+                    },
+                    "6" : {
+                        "COMPANY": "Chevron Nigeria Limited, Lagos, NG",
+                        "ACTIVEYEAR": "Jun 2014 – Nov 2014",
+                        "ROLE": "PRAKTIKUM - JUNIOR SOFTWARE ENGINEER",
+                        "DESCRIPTION": "Ich habe mit Ingenieuren des Operations Support zusammengearbeitet, um Fehler und Sicherheitslücken in Geschäftsanwendungen mithilfe von C # - und VB-Kenntnissen zu ermitteln, zu beheben und zu beheben. Als zugewiesenes Projekt habe ich ein JavaScript-basiertes interaktives Quiz erstellt, das in der Teambuilding- und Wissensaustauschveranstaltung der Personalabteilung verwendet wurde."
+                    },
+                    "7" : {
+                        "COMPANY": "Ikeja Electricity Distribution Company, Lagos, NG",
+                        "ACTIVEYEAR": "Sep 2013 – Dez 2013",
+                        "ROLE": "PRAKTIKUM - ELEKTROINGENIEUR",
+                        "DESCRIPTION": "Assistierte Schutz-, Steuerungs- und Messingenieure bei Feldoperationen und Tests <br/> Teilnahme an Exkursionen mit der Planungs- und Baueinheit <br/> Teilnahme an der Wartung von Leistungstransformatoren mit der Betriebs- und Wartungseinheit <br/> Angewandtes Wissen über Tabellenkalkulationen und Daten Sortieren in Zusammenstellung von monatlichen Rechnungen <br/> Teilnahme an der öffentlichen Sensibilisierung und Rechnungsprüfung unter der Tankstelle"
+                    }
+                }
+            },
+            "EDUCATION" : {
+                "HEADER": "Ausbildung",
+                "CONTENT":{
+                    "0" : {
+                        "SCHOOLNAME": "Federal University of Technology Owerri",
+                        "ACTIVEYEAR": "Sep 2010 – Dec 2015",
+                        "DEGREE": "Bachelor - Elektronik und Computertechnik",
+                        "DESCRIPTION": "Die Abschlussarbeit zum Thema \"Anwendung der Computertechnologie in der Landwirtschaft\" wurde ausgezeichnet. <br/> Das Projekt \"Entwicklung einer Plattform für soziale Netzwerke und Informationsmanagement für landwirtschaftliche Betriebe in Nigeria\" wurde ausgezeichnet. <br/> Entwicklung und erfolgreiche Bereitstellung einer sicheren, leichten elektronischen Abstimmungssoftware für interne Wahlen in der Abteilung für Elektrotechnik und Elektronik, die eine Rolle als Kuratorium im Wahlausschuss der Studenten der Gesellschaft für Elektrotechnik und Elektronik, 2014/2015, erhielt."
+                    },
+                    "1" : {
+                        "SCHOOLNAME": "Federal Government Academy Suleja",
+                        "ACTIVEYEAR": "Feb 2005 – Jul 2010",
+                        "DEGREE": "Naturwissenschaften",
+                        "DESCRIPTION": "6 Vornehmheiten <br/>"
+                    }
+                }
+            },
+            "DOWNLOADSUMMARY": "Zusammenfassung herunterladen"
+        },
+        "SKILLS" : {
+            "HEADER" : "Kompetenzen",
+            "TECHNICAL" : "Technisch",
+            "LANGUAGES" : "Spräche"
+        },
+        "CONTACT" : {
+            "HEADER" : "Nächstes Projekt?",
+            "GETCONNECTED" : "Lassen Sie uns verbinden",
+            "REACHOUT" : "Vereinbaren Sie eine Beratung",
+            "ERROR" : "Es ist ein Fehler aufgetreten. Bitte versuche es erneut.",
+            "CONTENT": {
+                "FIRSTNAME" : "Vorname",
+                "FIRSTNAMEREQUIRED" : "Vorname ist erforderlich",
+                "LASTNAME" : "Nachname",
+                "COMPANYNAME" : "Name der Firma",
+                "EMAIL" : "Email",
+                "EMAILREQUIRED" : "Email ist erforderlich",
+                "VALIDEMAILREQUIRED" : "Bitte geben Sie eine gültige Email-Adresse ein",
+                "MESSAGE" : "Nachricht",
+                "MESSAGESENT" : "Ihre Nachricht wurde gesendet und Sie erhalten eine E-Mail-Antwort."
+            },
+            "DONE" : "Gemacht",
+            "SEND" : "Senden",
+            "EMAILCAVEAT" : "Ihre E-Mail-Informationen werden niemals weitergegeben und nur für Korrespondenzzwecke verwendet.",
+            "CANADAPITCH" : "Are you an employer in Canada? <br/>Let's work together! Click <a class='lnk-yellow' href='/canada' target='_blank'>here</a> to find out more."
+        },
+        "FEATUREDPROJECTS" : {
+            "HEADER" : "Hier sind einige Dinge, die ich gebaut habe",
+            "CONTENT" : {
+                "PROJECTS" : {
+                    "0" : {
+                        "TITLE" : "Aurelia Demo",
+                        "DESCRIPTION" : "Eine Personalregistrierungs-App, die mit Aurelia JS und Typescript auf einer .NET5-Web-API und einem Entity Framework erstellt wurde."
+                    },
+                    "1" : {
+                        "TITLE" : "SlushieCorp",
+                        "DESCRIPTION" : "Eine fortschrittliche Echtzeit-Verkaufsanwendung, die auf Angular 9, Dotnetcore 3.1 API und SignalR basiert."
+                    },
+                    "2" : {
+                        "TITLE" : "Imperial DB",
+                        "DESCRIPTION" : "Demonstrieren dynamisch geladener Bildlauflisten in React mithilfe der Star Wars-API."
+                    },
+                    "3" : {
+                        "TITLE" : "Tic Tac Toe",
+                        "DESCRIPTION" : "Das Spiel mit allen Funktionen, das mithilfe des Tutorials \"Intro to React\" erstellt wurde."
+                    }
+                },
+                "ACTIONS" : {
+                    "VIEWLIVE" : "Live anzeigen",
+                    "VIEWSOURCE" : "Quelltext anzeigen"
+                },
+                "THISWEBSITE" : "Diese Website wurde in Angular 11 erstellt"
+            }
+        }
+    }
+}

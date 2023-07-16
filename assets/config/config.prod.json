@@ -1,0 +1,10 @@
+{
+    "url": {
+        "api" : "https://api.victorfortman.com/",
+        "base": "public_http/victorfortman/public_html/",
+        "file": "https://victorfortman.com/assets/files/",
+        "cors": "https://api.victorfortman.com/cors/?l=",
+        "github": "https://github.com/hugovicfortman/"
+    },
+    "btoken": "@btoken"
+}
