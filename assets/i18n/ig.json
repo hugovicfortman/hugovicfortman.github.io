@@ -38,15 +38,13 @@
             },
             "ABOUT" : {
                 "HEADER" : "Au sujet de",
-                "CONTENT" : "J'ai plus de 5 ans d'expérience dans le développement d'applications Web, la création d'API haute disponibilité, d'automatisations de processus robotiques et de solutions d'analyse destinées à la gestion de la chaîne d'approvisionnement, aux finances, aux ressources humaines et aux opérations sur le terrain. J'aime apprendre, surmonter les défis et créer de nouvelles choses."
+                "CONTENT" : "J'ai plus de 7 ans d'expérience dans le développement d'applications Web, la création d'API haute disponibilité, d'automatisations de processus robotiques et de solutions d'analyse destinées à la gestion de la chaîne d'approvisionnement, aux finances, aux ressources humaines et aux opérations sur le terrain. J'aime apprendre, surmonter les défis et créer de nouvelles choses."
             },
             "SPECS" : {
                 "HEADER" : "Spécifications",
                 "CONTENT" : {
                     "NAMEKEY" : "Nom",
                     "NAMEVALUE" : "Victor U.O. Fortman",
-                    "AGEKEY" : "Âge",
-                    "AGEVALUE" : "26",
                     "LOCATIONKEY" : "Emplacement",
                     "LOCATIONVALUE" : "éloigné"
                 }

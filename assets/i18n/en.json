@@ -40,22 +40,19 @@
             },
             "ABOUT" : {
                 "HEADER" : "About",
-                "CONTENT" : "I have over 5 years of experience in web application development, creating high availability APIs, Robotic Process Automations and analytics solutions for Supply Chain Management, Finance, Human Resources, and field operations. I enjoy learning, surmounting challenges, and making new things."
+                "CONTENT" : "I have over 7 years of experience in web application development, creating high availability APIs, Robotic Process Automation and analytics solutions for Supply Chain Management, Finance, Human Resources, and field operations. I enjoy learning, surmounting challenges, and making new things."
             },
             "SPECS" : {
                 "HEADER" : "Specs",
                 "CONTENT" : {
                     "NAMEKEY" : "Name",
                     "NAMEVALUE" : "Victor U.O. Fortman",
-                    "AGEKEY" : "Age",
-                    "AGEVALUE" : "26",
                     "LOCATIONKEY" : "Location",
                     "LOCATIONVALUE" : "Remote"
                 }
             },
             "ACTIONS" : {
-                "VIEWRESUME" : "View My Resume",
-                "CONTACTME" : "Book a Consultation"
+                "VIEWRESUME" : "View My Resume"
             }
         },
         "RESUME" : {
@@ -146,7 +143,7 @@
         "CONTACT" : {
             "HEADER" : "Next Project?",
             "GETCONNECTED" : "Get Connected",
-            "REACHOUT" : "Book a Consultation",
+            "REACHOUT" : "Let's Discuss",
             "ERROR" : "An error occured. Please try again.",
             "CONTENT": {
                 "FIRSTNAME" : "First Name",

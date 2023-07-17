@@ -38,15 +38,13 @@
             },
             "ABOUT" : {
                 "HEADER" : "Über",
-                "CONTENT" : "Ich habe über 5 Jahre Erfahrung in der Entwicklung von Webanwendungen, der Erstellung von Hochverfügbarkeits-APIs, Roboter-Prozessautomatisierungen und Analyselösungen für Supply Chain Management, Finanzen, Personalwesen und Außendienst. Ich genieße es zu lernen, Herausforderungen zu meistern und neue Dinge zu machen."
+                "CONTENT" : "Ich habe über 7 Jahre Erfahrung in der Entwicklung von Webanwendungen, der Erstellung von Hochverfügbarkeits-APIs, Roboter-Prozessautomatisierungen und Analyselösungen für Supply Chain Management, Finanzen, Personalwesen und Außendienst. Ich genieße es zu lernen, Herausforderungen zu meistern und neue Dinge zu machen."
             },
             "SPECS" : {
                 "HEADER" : "Technische Daten",
                 "CONTENT" : {
                     "NAMEKEY" : "Name",
                     "NAMEVALUE" : "Victor U.O. Fortman",
-                    "AGEKEY" : "Alter",
-                    "AGEVALUE" : "26",
                     "LOCATIONKEY" : "Auffinden",
                     "LOCATIONVALUE" : "Fernbedienung"
                 }
@@ -138,7 +136,7 @@
         "CONTACT" : {
             "HEADER" : "Nächstes Projekt?",
             "GETCONNECTED" : "Lassen Sie uns verbinden",
-            "REACHOUT" : "Vereinbaren Sie eine Beratung",
+            "REACHOUT" : "Lass uns diskutieren",
             "ERROR" : "Es ist ein Fehler aufgetreten. Bitte versuche es erneut.",
             "CONTENT": {
                 "FIRSTNAME" : "Vorname",
