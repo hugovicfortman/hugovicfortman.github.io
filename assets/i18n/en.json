@@ -40,13 +40,13 @@
             },
             "ABOUT" : {
                 "HEADER" : "About",
-                "CONTENT" : "I have over 7 years of experience in web application development, creating high availability APIs, Robotic Process Automation and analytics solutions for Supply Chain Management, Finance, Human Resources, and field operations. I enjoy learning, surmounting challenges, and making new things."
+                "CONTENT" : "I have over 8 years of experience in web application development, creating high availability APIs, Robotic Process Automation and analytics solutions for Supply Chain Management, Finance, Human Resources, and field operations. I enjoy learning, surmounting challenges, and making new things."
             },
             "SPECS" : {
                 "HEADER" : "Specs",
                 "CONTENT" : {
                     "NAMEKEY" : "Name",
-                    "NAMEVALUE" : "Victor U.O. Fortman",
+                    "NAMEVALUE" : "Victor U.F.O.",
                     "LOCATIONKEY" : "Location",
                     "LOCATIONVALUE" : "Remote"
                 }
@@ -61,16 +61,16 @@
                 "HEADER": "Experience",
                 "CONTENT":{
                     "0" : {
-                        "COMPANY": "GFinity Plc, Lagos, NG",
-                        "ACTIVEYEAR": "Jan 2022 – Present",
-                        "ROLE": "TECHNICAL LEAD, STOCK INFORMER",
-                        "DESCRIPTION": "Lead Software Development, Scaling, Upgrade and Market Integration of the Stock Informer product."
-                    },
-                    "1" : {
-                        "COMPANY": "Sapios, Lagos, NG",
+                        "COMPANY": "Sapios, (Remote)",
                         "ACTIVEYEAR": "Jan 2021 – Present",
                         "ROLE": "SOFTWARE ENGINEERING CONSULTANT",
                         "DESCRIPTION": "Develop, deploy and manage SAAS solutions servicing medium to large enterprises. Design and advise on system architecture for new and evolving solutions. Integrate databases, APIs and data-driven systems internal and external to enterprises."
+                    },
+                    "1" : {
+                        "COMPANY": "GFinity Plc, London, UK",
+                        "ACTIVEYEAR": "Jan 2022 – Feb 2024",
+                        "ROLE": "TECHNICAL LEAD, STOCK INFORMER",
+                        "DESCRIPTION": "Lead Software Development, Scaling, Upgrade and Market Integration of the Stock Informer product."
                     },
                     "2" : {
                         "COMPANY": "DAGBS Nigeria Limited, Lagos, NG",
@@ -200,13 +200,13 @@
                     "VIEWLIVE" : "View Live",
                     "VIEWSOURCE" : "View Source"
                 },
-                "THISWEBSITE" : "This website is built in Angular 11",
+                "THISWEBSITE" : "This website is built in Angular 17",
                 "LEARNING" : "My Featured Learning",
                 "LEARNING.SUBJECT" : {
                     "0" : {
-                        "TITLE" : "Kotlin",
-                        "DESCRIPTION" : "Kotlin is a general purpose, free, open source, statically typed “pragmatic” programming language initially designed for the JVM (Java Virtual Machine) and Android that combines object-oriented and functional programming features. It is focused on interoperability, safety, clarity, and tooling support.",
-                        "IMAGE" : "/assets/static/images/kotlin_icon.svg",
+                        "TITLE" : "Flutter",
+                        "DESCRIPTION" : "Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.",
+                        "IMAGE" : "/assets/static/images/flutter.svg",
                         "GDP" : "https://g.dev/hugovicfortman"
                     }
                 }
