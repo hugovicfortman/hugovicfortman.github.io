@@ -30,7 +30,8 @@
         "HI": "Hi"
     },
     "INTRO": {
-        "WHOAMI" : "I am a Software Engineer"
+        "WHOAMI" : "I am a Software Engineer",
+        "WHATIDO" : "I love to learn, grow and explore. I develop software for the web, mobile and devices. I’m currently working with clients & collaborating with agencies worldwide."
     },
     "PAGES" : {
         "PROFILE" : {

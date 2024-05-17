@@ -27,7 +27,8 @@
         "HI": "Salut"
     },
     "INTRO": {
-        "WHOAMI" : "Je suis développeur de logiciels"
+        "WHOAMI" : "Je suis développeur de logiciels",
+        "WHATIDO" : "J'aime apprendre, grandir et explorer. Je développe des logiciels pour le web, le mobile et les appareils. Je travaille actuellement avec des clients et collabore avec des agences du monde entier."
     },
     "PAGES" : {
         "PROFILE" : {

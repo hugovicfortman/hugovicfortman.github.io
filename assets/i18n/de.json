@@ -27,7 +27,8 @@
         "HI": "Hallo"
     },
     "INTRO": {
-        "WHOAMI" : "Ich bin Softwareentwickler"
+        "WHOAMI" : "Ich bin Softwareentwickler",
+        "WHATIDO" : "Ich liebe es, zu lernen, zu wachsen und zu entdecken. Ich entwickle Software für das Web, für Mobilgeräte und andere Geräte. Ich arbeite derzeit mit Kunden und Agenturen weltweit zusammen."
     },
     "PAGES" : {
         "PROFILE" : {
