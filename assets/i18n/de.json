@@ -2,8 +2,8 @@
     "MENU": {
         "HOME": "Zuhause",
         "PROFILE": "Profil",
-        "RESUME": "Resümee",
-        "SKILLS": "Kompetenzen",
+        "RESUME": "CV",
+        "SKILLS": "Kunst",
         "PREFERENCE": "Präferenz",
         "LANGUAGE": "Sprache",
         "LIGHTINGMODE": "Beleuchtungsmodus",
@@ -55,7 +55,7 @@
             }
         },
         "RESUME" : {
-            "HEADER" : "Resümee",
+            "HEADER" : "CV",
             "EXPERIENCE" : {
                 "HEADER": "Erfahrung",
                 "CONTENT":{
@@ -129,7 +129,7 @@
             "DOWNLOADSUMMARY": "Zusammenfassung herunterladen"
         },
         "SKILLS" : {
-            "HEADER" : "Kompetenzen",
+            "HEADER" : "Kunst",
             "TECHNICAL" : "Technisch",
             "LANGUAGES" : "Spräche"
         },
@@ -157,6 +157,7 @@
         "FEATUREDPROJECTS" : {
             "HEADER" : "Hier sind einige Dinge, die ich gebaut habe",
             "CONTENT" : {
+                "INTRODUCTION": "Hier präsentiere ich eine Sammlung von Miniprojekten, die entstehen, wenn ich mich mit neuen Technologien befasse. Jedes Projekt ist wie ein kleines Universum – ein Spielplatz, auf dem ich experimentiere, lerne und kreiere. Warum begebe ich mich auf diese Programmierabenteuer? Weil sie einem doppelten Zweck dienen: der Demonstration der Fähigkeiten der Technologie und der Entwicklung realer Anwendungsfälle. Ob es sich um einen skurrilen Chatbot, ein Datenvisualisierungs-Dashboard oder ein skurriles Spiel handelt, diese Projekte sind meine Leinwand. Sie ermöglichen es mir, Logik, Kreativität und Problemlösung zu vereinen.",
                 "PROJECTS" : {
                     "0" : {
                         "TITLE" : "Aurelia Demo",
@@ -179,7 +180,16 @@
                     "VIEWLIVE" : "Live anzeigen",
                     "VIEWSOURCE" : "Quelltext anzeigen"
                 },
-                "THISWEBSITE" : "Diese Website wurde in Angular 17 erstellt"
+                "THISWEBSITE" : "Diese Website wurde in Angular 17 erstellt",
+                "LEARNING" : "Empfohlenes Lernen",
+                "LEARNING.SUBJECT" : {
+                    "0" : {
+                        "TITLE" : "Flutter",
+                        "DESCRIPTION" : "Flutter ist ein Open-Source-Framework von Google zum Erstellen schöner, nativ kompilierter Multiplattform-Anwendungen aus einer einzigen Codebasis.",
+                        "IMAGE" : "/assets/static/images/flutter.svg",
+                        "GDP" : "https://g.dev/hugovicfortman"
+                    }
+                }
             }
         }
     }

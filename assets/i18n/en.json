@@ -6,6 +6,7 @@
         "SKILLS": "Skills",
         "CONTACT": "Contact",
         "PROJECTS": "Projects",
+        "LEARNING": "Learning",
         "PREFERENCE": "Preference",
         "LANGUAGE": "Language",
         "LIGHTINGMODE": "Lighting Mode",
@@ -164,6 +165,7 @@
         "FEATUREDPROJECTS" : {
             "HEADER" : "Here are some things I built",
             "CONTENT" : {
+                "INTRODUCTION": "Here, I showcase a collection of mini-ventures that emerge when I dive into new technologies. Each project is like a tiny universe—a playground where I experiment, learn, and create. Why do I embark on these coding adventures? Because they serve a dual purpose: demonstrating the capabilities of the technology and crafting real-world use-cases. Whether it’s a whimsical chatbot, a data visualization dashboard, or a quirky game, these projects are my canvas. They allow me to blend logic, creativity, and problem-solving.",
                 "PROJECTS" : {
                     "0" : {
                         "TITLE" : "Aurelia Demo",
@@ -201,7 +203,7 @@
                     "VIEWSOURCE" : "View Source"
                 },
                 "THISWEBSITE" : "This website is built in Angular 17",
-                "LEARNING" : "My Featured Learning",
+                "LEARNING" : "Recommended Learning",
                 "LEARNING.SUBJECT" : {
                     "0" : {
                         "TITLE" : "Flutter",

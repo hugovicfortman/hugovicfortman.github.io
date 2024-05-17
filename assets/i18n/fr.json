@@ -3,7 +3,7 @@
         "HOME": "Accueil",
         "PROFILE": "Profil",
         "RESUME": "CV",
-        "SKILLS": "Compétences",
+        "SKILLS": "Habileté",
         "PREFERENCE": "Préférence",
         "LANGUAGE": "Langue",
         "LIGHTINGMODE": "Mode d'éclairage",
@@ -129,7 +129,7 @@
             "DOWNLOADSUMMARY": "Télécharger le résumé"
         },
         "SKILLS" : {
-            "HEADER" : "Compétences",
+            "HEADER" : "Habileté",
             "TECHNICAL" : "Technique",
             "LANGUAGES" : "Langues"
         },
@@ -157,6 +157,7 @@
         "FEATUREDPROJECTS" : {
             "HEADER" : "Voici quelques choses que j'ai construites",
             "CONTENT" : {
+                "INTRODUCTION": "Ici, je présente une collection de mini-projets qui émergent lorsque je me plonge dans les nouvelles technologies. Chaque projet est comme un petit univers, un terrain de jeu où j'expérimente, apprends et crée. Pourquoi est-ce que je me lance dans ces aventures de codage ? Parce qu’ils ont un double objectif : démontrer les capacités de la technologie et créer des cas d’utilisation concrets. Qu'il s'agisse d'un chatbot fantaisiste, d'un tableau de bord de visualisation de données ou d'un jeu décalé, ces projets sont ma toile. Ils me permettent de mélanger logique, créativité et résolution de problèmes.",
                 "PROJECTS" : {
                     "0" : {
                         "TITLE" : "Aurelia Demo",
@@ -179,7 +180,16 @@
                     "VIEWLIVE" : "Voir en Direct",
                     "VIEWSOURCE" : "Voir la Source"
                 },
-                "THISWEBSITE" : "Ce site Web est construit en Angular 17"
+                "THISWEBSITE" : "Ce site Web est construit en Angular 17",
+                "LEARNING" : "Apprentissage Recommandé",
+                "LEARNING.SUBJECT" : {
+                    "0" : {
+                        "TITLE" : "Flutter",
+                        "DESCRIPTION" : "Flutter est un framework open source de Google permettant de créer de belles applications multiplateformes compilées nativement à partir d'une seule base de code.",
+                        "IMAGE" : "/assets/static/images/flutter.svg",
+                        "GDP" : "https://g.dev/hugovicfortman"
+                    }
+                }
             }
         }
     }
