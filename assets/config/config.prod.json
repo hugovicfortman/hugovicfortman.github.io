@@ -4,7 +4,8 @@
         "base": "public_http/victorfortman/public_html/",
         "file": "https://victorfortman.com/assets/files/",
         "cors": "https://api.victorfortman.com/cors/?l=",
-        "github": "https://github.com/hugovicfortman/"
+        "github": "https://github.com/hugovicfortman/",
+        "projects": "https://projects.victorfortman.com/manifest/"
     },
     "btoken": "@btoken"
 }
