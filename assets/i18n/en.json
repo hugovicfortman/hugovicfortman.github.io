@@ -122,12 +122,18 @@
                 "HEADER": "Education",
                 "CONTENT":{
                     "0" : {
+                        "SCHOOLNAME": "Conestoga College, Ontario",
+                        "ACTIVEYEAR": "May 2023 – Aug 2024",
+                        "DEGREE": "Ontario Graduate Certificate - Applied Network Infrastructure and System Administration",
+                        "DESCRIPTION": "Graduated with Distinction. A+ Capstone project included complete infrastructure design and virtual implementation for a global eSports streaming company."
+                    },
+                    "1" : {
                         "SCHOOLNAME": "Federal University of Technology Owerri",
                         "ACTIVEYEAR": "Sep 2010 – Dec 2015",
                         "DEGREE": "Bachelor - Electronic and Computer Engineering",
                         "DESCRIPTION": "Final year thesis on \"Application of Computer Technology in Agriculture\" won a distinction. <br/> Project on \"Development of a Social Networking and Information Management Platform for Agricultural establishments in Nigeria\" won a distinction. <br/> Created and successfully deployed a secure lightweight electronic voting software for in-house elections in Electrical and Electronic Engineering Department, earning a Board of Trustees role in Society for Electrical and Electronic Engineering Students electoral committee, 2014/2015."
                     },
-                    "1" : {
+                    "2" : {
                         "SCHOOLNAME": "Federal Government Academy Suleja",
                         "ACTIVEYEAR": "Feb 2005 – Jul 2010",
                         "DEGREE": "Natural Sciences",
@@ -209,7 +215,7 @@
                     "0" : {
                         "TITLE" : "Flutter",
                         "DESCRIPTION" : "Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.",
-                        "IMAGE" : "/assets/static/images/flutter.svg",
+                        "IMAGE" : "https://io.victorfortman.com/assets/static/images/flutter.svg",
                         "GDP" : "https://g.dev/hugovicfortman"
                     }
                 }

@@ -114,12 +114,18 @@
                 "HEADER": "Éducation",
                 "CONTENT":{
                     "0" : {
+                        "SCHOOLNAME": "Conestoga College, Ontario",
+                        "ACTIVEYEAR": "Mai 2023 – Aou 2024",
+                        "DEGREE": "Certificat d'études supérieures de l'Ontario - Infrastructure de réseau appliquée et administration de systèmes",
+                        "DESCRIPTION": "Diplômé avec distinction. Le projet de fin d'études comprenait la conception complète de l'infrastructure et la mise en œuvre virtuelle pour une société mondiale de streaming d'eSports qui a reçu une note A+."
+                    },
+                    "1" : {
                         "SCHOOLNAME": "Federal University of Technology Owerri",
                         "ACTIVEYEAR": "Sep 2010 – Dec 2015",
                         "DEGREE": "Baccalauréat - Génie électronique et informatique",
                         "DESCRIPTION": "La thèse de dernière année sur \"Application des technologies informatiques en agriculture \" a remporté une distinction. <br/> Le projet \"Développement d'une plate-forme de réseautage social et de gestion de l'information pour les établissements agricoles au Nigeria\" a remporté une distinction. <br/> A créé et déployé avec succès un logiciel de vote électronique sécurisé et léger pour les élections internes au Département de génie électrique et électronique, gagnant un rôle de conseil d'administration au sein du comité électoral des étudiants de la Society for Electrical and Electronic Engineering, 2014/2015."
                     },
-                    "1" : {
+                    "2" : {
                         "SCHOOLNAME": "Federal Government Academy Suleja",
                         "ACTIVEYEAR": "Feb 2005 – Jul 2010",
                         "DEGREE": "Sciences naturelles",

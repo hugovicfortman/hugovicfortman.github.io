@@ -114,12 +114,18 @@
                 "HEADER": "Ausbildung",
                 "CONTENT":{
                     "0" : {
+                        "SCHOOLNAME": "Conestoga College, Ontario",
+                        "ACTIVEYEAR": "Mai 2010 – Aug 2024",
+                        "DEGREE": "Ontario Graduate Certificate - Angewandte Netzwerkinfrastruktur und Systemadministration",
+                        "DESCRIPTION": "Mit Auszeichnung abgeschlossen. Das Abschlussprojekt umfasste die komplette Infrastrukturplanung und virtuelle Implementierung für ein globales eSports-Streaming-Unternehmen und erhielt die Note A+."
+                    },
+                    "1" : {
                         "SCHOOLNAME": "Federal University of Technology Owerri",
                         "ACTIVEYEAR": "Sep 2010 – Dec 2015",
                         "DEGREE": "Bachelor - Elektronik und Computertechnik",
                         "DESCRIPTION": "Die Abschlussarbeit zum Thema \"Anwendung der Computertechnologie in der Landwirtschaft\" wurde ausgezeichnet. <br/> Das Projekt \"Entwicklung einer Plattform für soziale Netzwerke und Informationsmanagement für landwirtschaftliche Betriebe in Nigeria\" wurde ausgezeichnet. <br/> Entwicklung und erfolgreiche Bereitstellung einer sicheren, leichten elektronischen Abstimmungssoftware für interne Wahlen in der Abteilung für Elektrotechnik und Elektronik, die eine Rolle als Kuratorium im Wahlausschuss der Studenten der Gesellschaft für Elektrotechnik und Elektronik, 2014/2015, erhielt."
                     },
-                    "1" : {
+                    "2" : {
                         "SCHOOLNAME": "Federal Government Academy Suleja",
                         "ACTIVEYEAR": "Feb 2005 – Jul 2010",
                         "DEGREE": "Naturwissenschaften",
