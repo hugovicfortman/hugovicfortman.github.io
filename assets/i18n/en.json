@@ -1,7 +1,7 @@
 {
     "MENU": {
         "HOME": "Home",
-        "PROFILE": "Profile",
+        "PROFILE": "About",
         "RESUME": "Resume",
         "SKILLS": "Skills",
         "CONTACT": "Contact",
@@ -179,14 +179,16 @@
                         "DESCRIPTION" : "A personnel enrollment app built with AureliaJS and Typescript on top of a .NET5 WebAPI and Entity Framework.",
                         "IMAGE" : "https://cdn.victorfortman.com/public/images/app-processor.webp",
                         "SOURCE" : "https://github.com/hugovicfortman/applicationprocess-december2020",
-                        "ISLIVE" : "0"
+                        "ISLIVE" : "0",
+                        "ISPROPRIETARY" : "0"
                     },
                     "1" : {
                         "TITLE" : "SlushieCorp",
                         "DESCRIPTION" : "An advanced real-time vending application built on Angular 9, dotnetcore 3.1 API and SignalR.",
                         "IMAGE" : "https://cdn.victorfortman.com/public/images/slushiecorp.png",
                         "SOURCE" : "https://github.com/hugovicfortman/slushiecorp",
-                        "ISLIVE" : "0"
+                        "ISLIVE" : "0",
+                        "ISPROPRIETARY" : "0"
                     },
                     "2" : {
                         "TITLE" : "Imperial DB",
@@ -194,7 +196,8 @@
                         "IMAGE" : "https://cdn.victorfortman.com/public/images/imperial-database.webp",
                         "SOURCE" : "https://github.com/hugovicfortman/imperial-database",
                         "LIVE" : "https://projects.victorfortman.com/imperial-database",
-                        "ISLIVE" : "1"
+                        "ISLIVE" : "1",
+                        "ISPROPRIETARY" : "0"
                     },
                     "3" : {
                         "TITLE" : "Tic Tac Toe",
@@ -202,7 +205,8 @@
                         "IMAGE" : "https://cdn.victorfortman.com/public/images/tic-tac-toe.webp",
                         "SOURCE" : "https://github.com/hugovicfortman/tic-tac-toe",
                         "LIVE" : "https://projects.victorfortman.com/tic-tac-toe",
-                        "ISLIVE" : "1"
+                        "ISLIVE" : "1",
+                        "ISPROPRIETARY" : "1"
                     }
                 },
                 "ACTIONS" : {
