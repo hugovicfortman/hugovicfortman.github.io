@@ -147,7 +147,10 @@
                     }
                 }
             },
-            "DOWNLOADSUMMARY": "Download Summary"
+            "DOWNLOADSUMMARY": "Download Summary",
+            "CV": "CV",
+            "RESUME": "Resume",
+            "STORYBOARD": "Storyboard"
         },
         "SKILLS": {
             "HEADER": "Skills",
